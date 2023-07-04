@@ -1,1 +1,1 @@
-My first readme
+Kelvin Peprah is a great person.
